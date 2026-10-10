@@ -1,0 +1,15 @@
+.clock {
+  padding: 2.5rem 3.5rem;
+  border-radius: 20px;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(135deg, #ff6b6b, #8e44ad, #3498db);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+.clock-date { margin: 0 0 0.5rem; font-size: 1.4rem; }
+.clock-time {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: 'Courier New', monospace;
+}
